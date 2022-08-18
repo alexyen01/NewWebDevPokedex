@@ -1,0 +1,34 @@
+body{
+    align-items: center;
+    justify-content: center;
+    background-color: darkred;
+}
+.border{
+    background-color: black;
+    padding: 14.5%;
+}
+.content{
+    background-color: lightblue;
+    padding: 45px;
+    max-width: 100%;
+    height: auto;
+    font-size: 30px;
+    text-align: center;
+}
+.row {
+    display: flex;
+}
+  
+.column {
+    flex: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+.inputs{
+    text-align: center;
+    color: white;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
